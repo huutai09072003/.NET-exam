@@ -1,2 +1,2 @@
-# fisrt .NET exem
+# fisrt .NET exam
 ...
