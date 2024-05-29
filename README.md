@@ -1,2 +1,2 @@
-# usefisrttime
-using githud firsttime
+# fisrt .NET exem
+...
